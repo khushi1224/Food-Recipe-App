@@ -6,7 +6,7 @@
 }
 .nav{
   /* background-color:  */
-  background-color: #0d0de1;
+  background-color: #b97f18;
   display: flex;
   justify-content: space-between;
   width: 100%;
@@ -44,7 +44,7 @@
 }
 
 .right div:hover{
-  background-color: rgb(28, 28, 61);
+  background-color: #902625;
 }
 
 .slider{
@@ -59,13 +59,13 @@
 
 .slider img{
   border-radius: 5%;
-  border: 2px solid rgb(87, 87, 165);
+  border: 2px solid #b97f18;
   transition: transform 0.3s ease;
 }
 
 .slider img:hover{
   transform: translateZ(100px);
-  border: 2px solid yellow;
+  border: 2px solid #902625;
 }
 
 .slider2{
@@ -79,23 +79,24 @@
 
 .slider2 img{
   border-radius: 5%;
-  border: 2px solid rgb(87, 87, 165);
+  border: 2px solid #b97f18;
   transition: transform 0.3s ease;
 }
 
 .slider2 img:hover{
   transform: translateZ(150px);
-  border: 2px solid yellow;
+  border: 2px solid #902625;
 }
 
 .btn{
   padding: 1rem;
   font-size: 1rem;
   font-weight: bold;
-  background-color: yellow;
+  color: white;
+  background-color: #902625;
   border-radius: 5%;
   margin: 2rem;
-  border: 2px solid blue;
+  /* border: 2px solid ; */
 }
 
 .img{
@@ -104,13 +105,13 @@
 
 .img img{
   border-radius: 5%;
-  border: 2px solid rgb(87, 87, 165);
+  border: 2px solid #b97f18;
   transition: transform 0.3s ease;
 }
 
 .img img:hover{
   transform: translateZ(100px);
-  border: 2px solid yellow;
+  border: 2px solid #902625;
 }
 
 .link{
